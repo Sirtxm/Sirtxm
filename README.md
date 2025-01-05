@@ -1,4 +1,4 @@
-**Hi :wave: my name is Teeraphat Thongchern** :wave:
+##Hi :wave: my name is Teeraphat Thongchern##
 
 ## Skills and Tools
 
